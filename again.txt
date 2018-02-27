@@ -4,3 +4,5 @@ modifying from github.
 inside git stash
 
 from new branch - git
+
+trying to merge into master
