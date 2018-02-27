@@ -2,3 +2,5 @@ hope it works now.
 modifying from github.
 
 inside git stash
+
+from new branch - git
